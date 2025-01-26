@@ -10,7 +10,7 @@ I am currently pursuing a Bachelor’s degree in Computer Science, where I am bu
 <!-- Social icons section -->
 <p align="center">
  
-  <a href="https://www.linkedin.com/in/onyedikachi-nwanguma/"><img width="30px" style="padding-right:5px;" alt="LinkedIn" title="LinkedIn Profile" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/onyedikachi-nwanguma/"><img width="30px" style="padding-right:12px;" alt="LinkedIn" title="LinkedIn Profile" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   <a href="https://x.com/Mannie799"><img width="30px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
 
 </p>
@@ -32,9 +32,10 @@ I am currently pursuing a Bachelor’s degree in Computer Science, where I am bu
 
 <br />
 
+---
+
 ## 📊 Github Stats
 
-![profile views](https://komarev.com/ghpvc/?username=onyedikachidev-codes&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/onyedikachidev-codes.svg?style=social&label=Follow&maxAge=2592000)
 ![GitHub User's stars](https://img.shields.io/github/stars/onyedikachidev-codes.svg?style=social&label=Star&maxAge=2592000)
 
