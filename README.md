@@ -32,8 +32,6 @@ I am currently pursuing a Bachelor’s degree in Computer Science, where I am bu
 
 <br />
 
----
-
 ## 📊 Github Stats
 
 ![GitHub followers](https://img.shields.io/github/followers/onyedikachidev-codes.svg?style=social&label=Follow&maxAge=2592000)
