@@ -40,7 +40,7 @@ I am currently pursuing a Bachelor’s degree in Computer Science, where I am bu
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/onyedikachidev-codes/github-readme-streak-stats">
+    <a href="https://github.com/onyedikachidev-codes/">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="onyedikachidev's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=onyedikachidev-codes&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
@@ -49,4 +49,4 @@ I am currently pursuing a Bachelor’s degree in Computer Science, where I am bu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyedikachidev-codes&layout=compact&theme=radical)
 ![map](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onyedikachidev-codes&theme=radical)
 
-[My Portfolio]: https://youtube.com/fknight
+[My Portfolio]: https://onyedikachinwanguma.vercel.app/
