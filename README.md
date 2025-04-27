@@ -9,8 +9,23 @@ I am currently pursuing a Bachelor’s degree in Computer Science, where I am bu
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/onyedikachi-nwanguma/"><img width="30px" style="padding-right:20px;" alt="LinkedIn" title="LinkedIn Profile" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  <a href="https://x.com/Mannie799"><img width="30px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://www.linkedin.com/in/onyedikachi-nwanguma/"
+     style="margin-right: 20px;">
+    <img
+      width="30px"
+      alt="LinkedIn"
+      title="LinkedIn Profile"
+      src="https://i.imgur.com/yRpa1dQ.png"
+    />
+  </a>
+  <a href="https://x.com/Mannie799">
+    <img
+      width="30px"
+      alt="X (Twitter)"
+      title="Twitter Profile"
+      src="https://i.imgur.com/AixJgnm.png"
+    />
+  </a>
 </p>
 
 ---
