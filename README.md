@@ -1,10 +1,10 @@
 # Onyedikachi Nwanguma
 
-**`Junior Software Engineer`**
+**`Full-stack Engineer`**
 
 <img align="right" alt="Coding" width="100%" src="https://camo.githubusercontent.com/ef04451df84e3e292599b5c98bf0c77f8ec2a9ab56459cffb13ddf061cbdfc6f/68747470733a2f2f70617261646f782e62612f70617261646f782f77702d636f6e74656e742f75706c6f6164732f323031392f30392f3470617261646f782d616e696d6174696f6e2e676966">
 
-I'm a junior software engineer passionate about transforming ideas into reality through impactful web solutions.
+I'm a Full-stack engineer passionate about transforming ideas into reality through impactful web solutions.
 I am currently pursuing a Bachelor’s degree in Computer Science, where I am building a strong foundation in software development, algorithms, and systems design. [My Portfolio][My Portfolio].
 
 <!-- Social icons section -->
@@ -42,6 +42,7 @@ I am currently pursuing a Bachelor’s degree in Computer Science, where I am bu
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
