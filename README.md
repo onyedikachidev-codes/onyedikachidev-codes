@@ -55,7 +55,7 @@ I am currently pursuing a Bachelor’s degree in Computer Science, where I am bu
 ![GitHub followers](https://img.shields.io/github/followers/onyedikachidev-codes.svg?style=social&label=Follow&maxAge=2592000)
 ![GitHub User's stars](https://img.shields.io/github/stars/onyedikachidev-codes.svg?style=social&label=Star&maxAge=2592000)
 
-<h3>🔥 Streak Stats</h3>
+<h3>🔥 Streak Statistics</h3>
   <p>
     <a href="https://github.com/onyedikachidev-codes/">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
