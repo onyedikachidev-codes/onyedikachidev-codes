@@ -17,7 +17,7 @@ I hold a B.Sc. in Computer Science from Lagos State University, where I built a 
 | Languages | TypeScript, JavaScript, Dart, HTML, CSS, Sass |
 | Frontend  | React, Next.js, Tailwind CSS                  |
 | Mobile    | React Native, Flutter                         |
-| Backend   | Node.js, Express                              |
+| Backend   | Node.js, NestJS, Express                      |
 | Databases | PostgreSQL, MongoDB                           |
 | Tooling   | Git, GitHub                                   |
 
@@ -27,8 +27,7 @@ I hold a B.Sc. in Computer Science from Lagos State University, where I built a 
 ![GitHub followers](https://img.shields.io/github/followers/onyedikachidev-codes.svg?style=social&label=Follow&maxAge=2592000)
 ![GitHub stars](https://img.shields.io/github/stars/onyedikachidev-codes.svg?style=social&label=Star&maxAge=2592000)
 
-<a href="https://github.com/onyedikachidev-codes/">
-  <img alt="Onyedikachi's GitHub streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=onyedikachidev-codes&theme=monokai-metallian&hide_border=true&short_numbers=true" />
-</a>
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onyedikachidev-codes&layout=compact&theme=radical)
+<p>
+  <img height="180" alt="Onyedikachi's GitHub streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=onyedikachidev-codes&theme=monokai-metallian&hide_border=true&short_numbers=true" />
+  <img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onyedikachidev-codes&layout=compact&theme=radical" />
+</p>
