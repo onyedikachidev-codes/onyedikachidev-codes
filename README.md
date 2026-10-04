@@ -28,6 +28,6 @@ I hold a B.Sc. in Computer Science from Lagos State University, where I built a 
 ![GitHub stars](https://img.shields.io/github/stars/onyedikachidev-codes.svg?style=social&label=Star&maxAge=2592000)
 
 <p>
-  <img height="180" alt="Onyedikachi's GitHub streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=onyedikachidev-codes&theme=monokai-metallian&hide_border=true&short_numbers=true" />
-  <img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onyedikachidev-codes&layout=compact&theme=radical" />
+  <img height="170" align="top" alt="Onyedikachi's GitHub streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=onyedikachidev-codes&theme=monokai-metallian&hide_border=true&short_numbers=true&card_height=170" />
+  <img height="170" align="top" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onyedikachidev-codes&layout=compact&theme=radical" />
 </p>
